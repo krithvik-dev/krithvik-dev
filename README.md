@@ -89,7 +89,17 @@ Real-time crowd detection, tracking, density estimation, and alerts.
 ---
 
 ## 🔥 Currently Learning
+## 🔥 Currently Learning
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker&theme=dark" />
+</p>
+
+<p align="center">
+  🤗 Hugging Face &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙️ MLflow & MLOps &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤖 AI Agents
+</p>
 - Deep Learning
 - TensorFlow & PyTorch
 - Hugging Face
