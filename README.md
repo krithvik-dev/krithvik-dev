@@ -1,34 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=KRITHVIK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=260&section=header&text=KRITHVIK&fontSize=65&fontColor=38BDF8&animation=twinkling&fontAlignY=38"/>
 
-<h3 align="center">
-AI & Data Science Graduate • Data Analyst • Machine Learning Engineer
-</h3>
-
-<h1 align="center">
-  🚀 Krithvik
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">
-</h1>
-
-<h3 align="center">
-AI & Data Science Graduate • Machine Learning Engineer
-</h3>
 <h1 align="center">
   Hi 👋 I'm Krithvik
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o0OW91bnk2aTRiM3h6OHQxM2t4cnB1eG54c3JrZXM4OWRrMnI5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
-</p>
-
-<h1 align="center">Krithvik</h1>
-
-<h1 align="center">
-  Krithvik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
@@ -36,11 +9,11 @@ AI & Data Science Graduate • Machine Learning Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning;Computer+Vision;Generative+AI;Building+AI-Powered+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=1000&color=38BDF8&lines=Artificial+Intelligence+%26+Data+Science+Graduate;Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+Explorer;Building+Real-World+AI+Applications;Python+%7C+SQL+%7C+FastAPI+%7C+Machine+Learning" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=58A6FF&lines=Data+Analytics;Machine+Learning;Computer+Vision;Generative+AI;Building+AI-Powered+Applications" />
+  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p align="center">
@@ -48,60 +21,118 @@ AI & Data Science Graduate • Machine Learning Engineer
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/krithvik-dev">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krithvik-dev&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Artificial Intelligence & Data Science graduate passionate about transforming data into insights and building intelligent systems.
+🎓 B.Tech graduate in **Artificial Intelligence & Data Science** passionate about building intelligent systems and transforming data into actionable insights.
 
-🔹 Python, SQL, Machine Learning & Data Analytics
+💡 I specialize in **Data Analytics, Machine Learning, Computer Vision, and Generative AI**, with hands-on experience developing end-to-end AI applications and analytics solutions.
 
-🔹 Data Visualization with Power BI & Tableau
+🔹 Python, SQL & Data Analytics
 
-🔹 AI Applications using FastAPI, OpenCV & Generative AI
+🔹 Machine Learning & Predictive Modeling
 
-🔹 Experience through Tata Group & Deloitte Analytics Simulations
+🔹 Computer Vision & OpenCV
 
-🎯 Seeking opportunities in:
+🔹 FastAPI & AI Application Development
 
-- Data Analytics - Machine Learning Engineering - AI Engineering - Data Engineering
+🔹 Power BI, Tableau & Data Visualization
+
+🔹 ETL Pipelines & Data Engineering Fundamentals
+
+🏢 Industry simulation experience through **Tata Group** and **Deloitte Australia**, solving real-world analytics and business intelligence challenges.
+
+🎯 Currently seeking opportunities as:
+
+📊 Data Analyst
+
+🤖 Machine Learning Engineer
+
+⚡ AI Engineer
+
+🗄️ Data Engineer
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Experience
+
+### 🌐 Web Development Intern | Crescent Technosoft
+
+📍 Bengaluru | Aug 2024 – Sep 2024
+
+✔ Developed 5+ responsive and cross-browser compatible web pages using HTML5, CSS3, and JavaScript.
+
+✔ Resolved 10+ UI and functional defects, improving application reliability and reducing bug counts.
+
+✔ Collaborated within a 4-member Agile development team to deliver modules ahead of stakeholder review deadlines.
+
+✔ Built production-ready UI components and improved user experience across multiple projects.
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 📚 AI Study Notes Generator
 
-Generate summaries, notes, and quizzes from PDFs using Gemini AI.
+Generate summaries, notes, and quizzes from PDF documents using Gemini AI.
+
+**Python • NLP • Gemini API**
+
+<br>
 
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 👁️ Crowd Monitoring System
 
-Real-time crowd detection, tracking, density estimation, and alerts.
+Real-time crowd detection, tracking, density estimation, and alert generation.
+
+**YOLOv8 • OpenCV • FastAPI**
+
+<br>
 
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Data Analytics Dashboard
+
+Interactive business intelligence dashboard for KPI tracking and reporting.
+
+**Power BI • SQL • Excel**
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -111,40 +142,59 @@ Real-time crowd detection, tracking, density estimation, and alerts.
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
+
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,opencv,mongodb,postgresql,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,postgresql&theme=dark"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
+</p>
+
+### Data Analytics
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### Backend & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,git,github,vscode,docker,linux&theme=dark"/>
 </p>
 
 ---
 
-## 🔥 Currently Learning
-## 🔥 Currently Learning
+# 🔥 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker&theme=dark"/>
 </p>
 
 <p align="center">
-  🤗 Hugging Face &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚙️ MLflow & MLOps &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 AI Agents
+<img src="https://img.shields.io/badge/🤗%20HuggingFace-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️%20MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20MLOps-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Agents-7C3AED?style=for-the-badge"/>
 </p>
-- Deep Learning
-- TensorFlow & PyTorch
-- Hugging Face
-- MLOps & MLflow
-- AWS Fundamentals
-- AI Agents
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=krithvik-dev&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -158,7 +208,7 @@ Real-time crowd detection, tracking, density estimation, and alerts.
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krithvik-dev&theme=github-dark&hide_border=true"/>
@@ -166,7 +216,25 @@ Real-time crowd detection, tracking, density estimation, and alerts.
 
 ---
 
-## 📫 Connect
+# 🏅 Certifications
+
+🏆 IBM SkillsBuild – Generative AI in Action
+
+🏆 IBM SkillsBuild – Artificial Intelligence Fundamentals
+
+🏆 IBM SkillsBuild – AI for Real-World Applications
+
+🏆 HP LIFE – Data Science and Analytics
+
+🏆 Udemy – Master Data Science and AI
+
+🏆 Tata Group – Data Analytics & AI Job Simulation
+
+🏆 Deloitte Australia – Data Analytics Job Simulation
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -178,6 +246,16 @@ Real-time crowd detection, tracking, density estimation, and alerts.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=140&section=footer"/>
