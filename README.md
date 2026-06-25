@@ -4,7 +4,14 @@
 AI & Data Science Graduate • Data Analyst • Machine Learning Engineer
 </h3>
 
+<h1 align="center">
+  🚀 Krithvik
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">
+</h1>
 
+<h3 align="center">
+AI & Data Science Graduate • Machine Learning Engineer
+</h3>
 <h1 align="center">
   Hi 👋 I'm Krithvik
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
