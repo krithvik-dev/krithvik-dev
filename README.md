@@ -38,10 +38,7 @@ Artificial Intelligence & Data Science graduate passionate about transforming da
 
 🎯 Seeking opportunities in:
 
-- Data Analytics
-- Machine Learning Engineering
-- AI Engineering
-- Data Engineering
+- Data Analytics - Machine Learning Engineering - AI Engineering - Data Engineering
 
 ---
 
