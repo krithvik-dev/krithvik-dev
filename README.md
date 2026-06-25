@@ -18,6 +18,10 @@ AI & Data Science Graduate • Machine Learning Engineer
 </h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o0OW91bnk2aTRiM3h6OHQxM2t4cnB1eG54c3JrZXM4OWRrMnI5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="300">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
 </p>
 
