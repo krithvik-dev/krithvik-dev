@@ -27,6 +27,18 @@ AI & Data Science Graduate • Machine Learning Engineer
 
 <h1 align="center">Krithvik</h1>
 
+<h1 align="center">
+  Krithvik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">
+🤖 AI Engineer • 📊 Data Analyst • 🚀 Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning;Computer+Vision;Generative+AI;Building+AI-Powered+Applications" />
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=58A6FF&lines=Data+Analytics;Machine+Learning;Computer+Vision;Generative+AI;Building+AI-Powered+Applications" />
 </p>
