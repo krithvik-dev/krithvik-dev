@@ -80,19 +80,15 @@ Machine Learning, Computer Vision, and Generative AI.
 
 <p>
 
-<img src="https://img.shields.io/badge/📊-Data%20Analyst-2563EB?style=for-the-badge"/>
+<p align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/📊%20Data%20Analyst-2563EB?style=for-the-badge&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/🤖-Machine%20Learning%20Engineer-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20ML%20Engineer-10B981?style=for-the-badge&labelColor=0F172A"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/⚡%20AI%20Engineer-7C3AED?style=for-the-badge&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/⚡-AI%20Engineer-7C3AED?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🗄️-Data%20Engineer-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗄️%20Data%20Engineer-F97316?style=for-the-badge&labelColor=0F172A"/>
 
 </p>
 
