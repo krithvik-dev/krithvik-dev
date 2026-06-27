@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:krithvikbalakrishnan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -40,39 +40,79 @@
 
 # 👨‍💻 About Me
 
-<details>
-<summary>
-  <b>🚀 About Me (Click to Expand)</b>
-</summary>
+<table>
+<tr>
 
-<br>
+<td width="35%" align="center">
 
-<p align="center">
-  <img width="280" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE4cWptZXdoM25tMTA0MDNpdWp6NHU2M244cnpuZ3VpNjR6dDZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)">
-</p>
-
-<h3 align="center">🎓 AI & Data Science Graduate</h3>
-
-<p align="center">
-Passionate about building intelligent AI systems and transforming data into actionable insights through
-Machine Learning, Computer Vision, and Generative AI.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,postgresql,docker,git&theme=dark"/>
-</p>
-
-<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=krithvik-dev&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
+
+</td>
+
+<td width="65%">
+
+## 👋 Hello, I'm Krithvik
+
+🎓 **B.Tech Graduate** in **Artificial Intelligence & Data Science**
+
+💡 Passionate about building intelligent AI systems that transform data into actionable insights using Machine Learning, Computer Vision, and Generative AI.
+
+### 🚀 Core Domains
+
+<p>
+
+<img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊-Data%20Analytics-F59E0B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠-Machine%20Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/👁️-Computer%20Vision-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/✨-Generative%20AI-EC4899?style=for-the-badge"/>
+
+</p>
+
+### 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,postgresql,docker,git,github,vscode,linux&theme=dark"/>
+
+</p>
+
+### 🏢 Industry Experience
+
+<img src="https://img.shields.io/badge/Tata%20Group-005BAC?style=for-the-badge&logo=tata&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
+
+✔ Completed real-world Data Analytics & Business Intelligence simulations.
+
+### 🎯 Open to Opportunities
+
+<p>
+
+<img src="https://img.shields.io/badge/📊%20Data%20Analyst-2563EB?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/🤖%20ML%20Engineer-10B981?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/⚡%20AI%20Engineer-7C3AED?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/🗄️%20Data%20Engineer-F97316?style=for-the-badge&labelColor=0F172A"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🎯 Open to Opportunities
 
