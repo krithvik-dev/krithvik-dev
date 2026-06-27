@@ -216,22 +216,93 @@ Interactive business intelligence dashboard for KPI tracking and reporting.
 
 ---
 
-# 🏅 Certifications
+---
 
-🏆 IBM SkillsBuild – Generative AI in Action
+# 🏆 Certifications
 
-🏆 IBM SkillsBuild – Artificial Intelligence Fundamentals
+<table align="center">
+<tr>
 
-🏆 IBM SkillsBuild – AI for Real-World Applications
+<td align="center" width="33%">
 
-🏆 HP LIFE – Data Science and Analytics
+### 🏆
+**IBM SkillsBuild**
 
-🏆 Udemy – Master Data Science and AI
+Generative AI in Action
 
-🏆 Tata Group – Data Analytics & AI Job Simulation
+</td>
 
-🏆 Deloitte Australia – Data Analytics Job Simulation
+<td align="center" width="33%">
 
+### 🏆
+**IBM SkillsBuild**
+
+Artificial Intelligence Fundamentals
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏆
+**IBM SkillsBuild**
+
+AI for Real-World Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🏆
+**HP LIFE**
+
+Data Science and Analytics
+
+</td>
+
+<td align="center">
+
+### 🏆
+**Udemy**
+
+Master Data Science and AI
+
+</td>
+
+<td align="center">
+
+### 🏆
+**Tata Group**
+
+Data Analytics & AI Job Simulation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🏆
+**Deloitte Australia**
+
+Data Analytics Job Simulation
+
+</td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+---
 ---
 
 # 📫 Connect With Me
