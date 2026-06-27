@@ -48,7 +48,7 @@
 <br>
 
 <p align="center">
-  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="280" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE4cWptZXdoM25tMTA0MDNpdWp6NHU2M244cnpuZ3VpNjR6dDZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)">
 </p>
 
 <h3 align="center">🎓 AI & Data Science Graduate</h3>
