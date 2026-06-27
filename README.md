@@ -40,18 +40,50 @@
 
 # 👨‍💻 About Me
 
-<details open>
-<summary><b>🚀 Click to Know More About Me</b></summary>
+<details>
+<summary>
+  <b>🚀 About Me (Click to Expand)</b>
+</summary>
 
 <br>
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
-### 🎓 Education
+<h3 align="center">🎓 AI & Data Science Graduate</h3>
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+<p align="center">
+Passionate about building intelligent AI systems and transforming data into actionable insights through
+Machine Learning, Computer Vision, and Generative AI.
+</p>
 
-💡 Passionate about building intelligent AI systems that solve real-world problems through Machine Learning and Data Analytics.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,postgresql,docker,git&theme=dark"/>
+</p>
+
+<p align="center">
+
+🎯 **Currently Looking For**
+
+<br><br>
+
+📊 Data Analyst &nbsp; • &nbsp;
+🤖 Machine Learning Engineer &nbsp; • &nbsp;
+⚡ AI Engineer &nbsp; • &nbsp;
+🗄️ Data Engineer
+
+</p>
+
+</details>
 
 ### 🚀 Specializations
 
