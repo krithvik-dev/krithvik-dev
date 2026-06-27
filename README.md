@@ -36,68 +36,166 @@
 
 ---
 
+ ---
+
 # 👨‍💻 About Me
 
-🎓 B.Tech graduate in **Artificial Intelligence & Data Science** passionate about building intelligent systems and transforming data into actionable insights.
+<details open>
+<summary><b>🚀 Click to Know More About Me</b></summary>
 
-💡 I specialize in **Data Analytics, Machine Learning, Computer Vision, and Generative AI**, with hands-on experience developing end-to-end AI applications and analytics solutions.
+<br>
 
-🔹 Python, SQL & Data Analytics
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔹 Machine Learning & Predictive Modeling
+### 🎓 Education
 
-🔹 Computer Vision & OpenCV
+🎓 **B.Tech in Artificial Intelligence & Data Science**
 
-🔹 FastAPI & AI Application Development
+💡 Passionate about building intelligent AI systems that solve real-world problems through Machine Learning and Data Analytics.
 
-🔹 Power BI, Tableau & Data Visualization
+### 🚀 Specializations
 
-🔹 ETL Pipelines & Data Engineering Fundamentals
+<p>
 
-🏢 Industry simulation experience through **Tata Group** and **Deloitte Australia**, solving real-world analytics and business intelligence challenges.
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,postgresql&theme=dark"/>
 
-🎯 Currently seeking opportunities as:
+</p>
 
-📊 Data Analyst
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- ✨ Generative AI
 
-🤖 Machine Learning Engineer
+### 🏢 Industry Experience
 
-⚡ AI Engineer
+<img src="https://img.shields.io/badge/Tata%20Group-005BAC?style=for-the-badge&logo=tata&logoColor=white"/>
 
-🗄️ Data Engineer
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
+
+Completed virtual job simulations solving real-world analytics and business intelligence challenges.
+
+### 🎯 Open To
+
+<img src="https://img.shields.io/badge/Data%20Analyst-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Engineer-F97316?style=for-the-badge"/>
+
+</details>
 
 ---
 
 # 💼 Experience
 
-### 🌐 Web Development Intern | Crescent Technosoft
+<details open>
 
-📍 Bengaluru | Aug 2024 – Sep 2024
+<summary><b>🌐 Web Development Intern | Crescent Technosoft</b></summary>
 
-✔ Developed 5+ responsive and cross-browser compatible web pages using HTML5, CSS3, and JavaScript.
+<br>
 
-✔ Resolved 10+ UI and functional defects, improving application reliability and reducing bug counts.
+📍 **Bengaluru** &nbsp;&nbsp; 📅 **Aug 2024 – Sep 2024**
 
-✔ Collaborated within a 4-member Agile development team to deliver modules ahead of stakeholder review deadlines.
+### ⚡ Technologies Used
 
-✔ Built production-ready UI components and improved user experience across multiple projects.
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
+
+</p>
+
+### 🚀 Responsibilities
+
+✅ Developed **5+ responsive** web pages using HTML5, CSS3 & JavaScript
+
+✅ Fixed **10+ UI and functional issues**
+
+✅ Worked in a **4-member Agile Team**
+
+✅ Built reusable production-ready UI components
+
+✅ Improved website responsiveness and user experience
+
+</details>
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Tech Expertise
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+<br>Python
+</td>
 
-### 📚 AI Study Notes Generator
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<br>TensorFlow
+</td>
 
-Generate summaries, notes, and quizzes from PDF documents using Gemini AI.
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<br>PyTorch
+</td>
 
-**Python • NLP • Gemini API**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<br>OpenCV
+</td>
 
-<br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+<br>FastAPI
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<br>MySQL
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker"/>
+<br>Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git"/>
+<br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github"/>
+<br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux"/>
+<br>Linux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<br>VS Code
+</td>
+
+</tr>
+</table>
+
+---
 
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
