@@ -36,8 +36,6 @@
 
 ---
 
- ---
-
 # 👨‍💻 About Me
 
 <details>
@@ -48,7 +46,7 @@
 <br>
 
 <p align="center">
-  <img width="280" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE4cWptZXdoM25tMTA0MDNpdWp6NHU2M244cnpuZ3VpNjR6dDZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)">
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 <h3 align="center">🎓 AI & Data Science Graduate</h3>
@@ -240,7 +238,7 @@ Completed virtual job simulations solving real-world analytics and business inte
 
 <td width="33%" align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/krithvik-dev/YOUR_REPOSITORY">
 
 <img src="https://img.shields.io/badge/📚-AI%20Study%20Notes%20Generator-2563EB?style=for-the-badge"/>
 
@@ -264,7 +262,7 @@ Generate **Summaries, Notes & Quizzes** from PDF documents using **Google Gemini
 
 <td width="33%" align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/krithvik-dev/YOUR_REPOSITORY">
 
 <img src="https://img.shields.io/badge/👁️-Crowd%20Monitoring%20System-10B981?style=for-the-badge"/>
 
@@ -288,7 +286,7 @@ Real-time **Crowd Detection, Tracking, Density Estimation & Alerts**.
 
 <td width="33%" align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/krithvik-dev/YOUR_REPOSITORY">
 
 <img src="https://img.shields.io/badge/📊-Data%20Analytics%20Dashboard-F59E0B?style=for-the-badge"/>
 
@@ -481,7 +479,6 @@ Data Analytics Job Simulation
 
 </table>
 
----
 ---
 
 # 📫 Connect With Me
