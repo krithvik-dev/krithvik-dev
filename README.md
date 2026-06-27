@@ -76,10 +76,25 @@ Machine Learning, Computer Vision, and Generative AI.
 
 <br><br>
 
-📊 Data Analyst &nbsp; • &nbsp;
-🤖 Machine Learning Engineer &nbsp; • &nbsp;
-⚡ AI Engineer &nbsp; • &nbsp;
-🗄️ Data Engineer
+### 🎯 Open to Opportunities
+
+<p>
+
+<img src="https://img.shields.io/badge/📊-Data%20Analyst-2563EB?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🤖-Machine%20Learning%20Engineer-10B981?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚡-AI%20Engineer-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🗄️-Data%20Engineer-F97316?style=for-the-badge"/>
+
+</p>
 
 </p>
 
