@@ -229,46 +229,95 @@ Completed virtual job simulations solving real-world analytics and business inte
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+<i>✨ Click on any project card to open its GitHub repository ✨</i>
+</p>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/📚-AI%20Study%20Notes%20Generator-2563EB?style=for-the-badge"/>
+
+<br><br>
+
+Generate **Summaries, Notes & Quizzes** from PDF documents using **Google Gemini AI**.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20View%20Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
 
-<td align="center" width="33%">
-
-### 👁️ Crowd Monitoring System
-
-Real-time crowd detection, tracking, density estimation, and alert generation.
-
-**YOLOv8 • OpenCV • FastAPI**
-
-<br>
+<td width="33%" align="center">
 
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/👁️-Crowd%20Monitoring%20System-10B981?style=for-the-badge"/>
+
+<br><br>
+
+Real-time **Crowd Detection, Tracking, Density Estimation & Alerts**.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20View%20Repository-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
 
-<td align="center" width="33%">
-
-### 📊 Data Analytics Dashboard
-
-Interactive business intelligence dashboard for KPI tracking and reporting.
-
-**Power BI • SQL • Excel**
-
-<br>
+<td width="33%" align="center">
 
 <a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/📊-Data%20Analytics%20Dashboard-F59E0B?style=for-the-badge"/>
+
+<br><br>
+
+Interactive **Business Intelligence Dashboard** for KPI tracking and reporting.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20View%20Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
 
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/krithvik-dev?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
