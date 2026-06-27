@@ -72,8 +72,6 @@ Machine Learning, Computer Vision, and Generative AI.
 
 <p align="center">
 
-🎯 **Currently Looking For**
-
 <br><br>
 
 ### 🎯 Open to Opportunities
@@ -95,20 +93,6 @@ Machine Learning, Computer Vision, and Generative AI.
 </p>
 
 </details>
-
-### 🚀 Specializations
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,mysql,postgresql&theme=dark"/>
-
-</p>
-
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- ✨ Generative AI
 
 ### 🏢 Industry Experience
 
