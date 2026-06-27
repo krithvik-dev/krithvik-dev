@@ -45,7 +45,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhsc2FwdWp0N2RuMWl6cTkzcXJqYmJ4Njc3b21hNnk3Y2VtcjFtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif" width="280"/>
 
 <br><br>
 
